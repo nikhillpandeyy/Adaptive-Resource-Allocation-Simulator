@@ -32,7 +32,7 @@ class Process:
 class ResourceSchedulerGUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("Adaptive Resource Allocation Simulator")
+        self.root.title("Adaptive Resource Allocation Simulator v1.0")   # updated title
         self.root.geometry("980x800")
         self.root.resizable(True, True)
 
@@ -326,3 +326,4 @@ def main():
 
 if __name__=="__main__":
     main()
+
