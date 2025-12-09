@@ -98,3 +98,6 @@ This project helps understand:
 ## 📄 License
 
 This project is open-source and free to use for academic purposes.
+<img width="1920" height="1020" alt="Screenshot 2025-12-10 002309" src="https://github.com/user-attachments/assets/b4d9cb17-454a-4c08-99fe-cd6a3eadb7dd" />
+<img width="1920" height="1020" alt="Screenshot 2025-12-10 002303" src="https://github.com/user-attachments/assets/e8dad908-6b7e-4d79-a95a-80149579b433" />
+<img width="1920" height="1020" alt="Screenshot 2025-12-10 002228" src="https://github.com/user-attachments/assets/3724c901-feb7-4be7-8521-54331de0ab83" />
