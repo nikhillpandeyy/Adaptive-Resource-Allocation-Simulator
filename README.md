@@ -103,4 +103,16 @@ This project is open-source and free to use for academic purposes.
 <img width="1920" height="1020" alt="Screenshot 2025-12-10 002228" src="https://github.com/user-attachments/assets/3724c901-feb7-4be7-8521-54331de0ab83" />
 ## Learning Outcome
 This project helped understand OS memory management, CPU scheduling, and process states in multiprogramming systems.
+## 🔮 Future Scope
+
+This project can be further enhanced by adding the following features:
+
+- Priority-based scheduling for efficient resource distribution
+- Round Robin CPU scheduling with configurable quantum time
+- Pause / Resume process execution controls
+- Export system logs (CPU usage, memory usage, timeline) to CSV
+- Dark mode theme and customizable UI skins
+- Notification system when a process completes execution
+- Option to save and load process lists from a file
+
 
